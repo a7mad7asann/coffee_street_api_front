@@ -1,0 +1,124 @@
+{
+  "navbar": {
+    "home": "الرئيسية ",
+    "delivery": "التوصيل",
+    "products": "المنتجات",
+    "about": "من نحن",
+    "logo": "/images/logos/nav_logo.png",
+    "searchPlaceholder": "ابحث هنا..."
+  },
+  "heroSection": {
+    "backgroundImage": "/images/bg_img_hero.svg",
+    "title": "استمتع بالقهوة",
+    "description": "عزز إنتاجيتك وحسن مزاجك مع كوب من القهوة في الصباح",
+    "buttonText": "اطلب الآن",
+    "moreMenu": "المزيد من القائمة",
+    "cat": {
+      "name": "كابتشينو",
+      "image": "/images/product_back.png",
+      "rating": "4.8",
+      "sales": "18 ألف"
+    }
+  },
+  "about": {
+    "title": "من نحن",
+    "subtitle": "نحن نقدم قهوة عالية الجودة،\nوجاهزون للتوصيل.",
+    "description": "نحن شركة تقوم بصناعة وتوزيع المشروبات اللذيذة. منتجنا الرئيسي مصنوع بوصفة سرية ومتوفّر في المتاجر حول العالم.",
+    "button": "احصل على قهوتك",
+    "image": "/images/about_coffe.png",
+    "values": [
+      {
+        "icon": "/images/icons/quality.svg",
+        "title": "جودة عالية",
+        "description": "نستخدم أجود حبوب القهوة."
+      },
+      {
+        "icon": "/images/icons/delivery.svg",
+        "title": "توصيل سريع",
+        "description": "قهوتك توصلك في وقت قياسي."
+      },
+      {
+        "icon": "/images/icons/team.svg",
+        "title": "فريق خبير",
+        "description": "فريقنا يعمل بشغف يومياً."
+      },
+      {
+        "icon": "/images/icons/sustainability.svg",
+        "title": "استدامة",
+        "description": "نحن نهتم بالبيئة وندعم الزراعة النظيفة."
+      }
+    ]
+  },
+  "partnersSection": {
+    "partners": [
+      {
+        "name": "Adobe",
+        "logo": "/images/logos/slag1.svg",
+        "link": "https://www.adobe.com"
+      },
+      {
+        "name": "PayPal",
+        "logo": "/images/logos/slag2.svg",
+        "link": "https://www.paypal.com"
+      },
+      {
+        "name": "Webflow",
+        "logo": "/images/logos/slag3.svg",
+        "link": "https://webflow.com"
+      },
+      {
+        "name": "Amazon",
+        "logo": "/images/logos/slag4.svg",
+        "link": "https://www.amazon.com"
+      },
+      {
+        "name": "Google",
+        "logo": "/images/logos/slag5.svg",
+        "link": "https://www.google.com"
+      }
+    ]
+  },
+  "footer": {
+    "company": "  ركن القهوة ",
+    "slogan": "قهوتك تظبط مزاجك.",
+    "contact": {
+      "phone": [
+        "+123 456 7890",
+        "+123 456 7890"
+      ],
+      "email": "support@hyperestate.com",
+      "address": "123 شارع  نيويورك، الولايات المتحدة"
+    },
+    "follow": "تابعنا على:",
+    "social": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    },
+    "copyright": "© 2025 Coffee Croner. جميع الحقوق محفوظة."
+  },
+  "links": [
+    {
+      "label": "من نحن",
+      "url": "/about"
+    },
+    {
+      "label": "الأسئلة الشائعة",
+      "url": ""
+    },
+    {
+      "label": "سياسة الخصوصية",
+      "url": "#"
+    },
+    {
+      "label": "الشروط والأحكام",
+      "url": "#"
+    }
+  ],
+  "cartContent": {
+    "title": "🛒 عربة التسوق الخاصة بك",
+    "empty": "عذراً! سلتك فارغة.",
+    "remove": "إزالة"
+  }
+}
